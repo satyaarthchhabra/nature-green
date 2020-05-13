@@ -1,0 +1,92 @@
+
+.bgimg{
+    background: url('/assets/images/people-doing-marathon-618612.jpg') center bottom no-repeat;
+    height: 40rem;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+#headerset{
+    padding-top:200px ;
+box-sizing: border-box;
+    .btn{
+        border-radius: 4rem;
+    }
+}
+}
+#services{
+    padding: 4rem 0rem;
+    .container{
+        #rowpadd{
+            padding: 2rem 0;
+        }
+        #services-margin {
+            margin-bottom: 5rem;
+        }
+
+        .card{
+            border: none;
+    }
+    }
+}
+
+#portfolio{
+    padding: 4rem 0rem;
+    .container{
+        #rowpadd{
+            padding: 2rem 0;
+        }
+        #services-margin {
+            margin-bottom: 5rem;
+        }
+
+        .card{
+            border: none;    
+    }
+    }
+}
+
+#OurTeam{
+    padding: 4rem 0rem;
+    .container{
+        #rowpadd{
+            padding: 2rem 0;
+        }
+        #services-margin {
+            margin-bottom: 5rem;
+        }
+
+        .card{
+            border: none;
+    
+    
+    }
+    }
+}
+.footer{
+    height: 5rem;
+}
+@media only screen and (max-width: 600px){
+    #headerset{
+        .bgimg{
+            height: 30rem;
+            width: 100%;
+            background-size: 100% 100%;
+            background-attachment: fixed;
+        #headerset{
+            padding-top:10px ;
+        box-sizing: border-box;
+            .btn{
+                border-radius: 4rem;
+            }
+        }
+        }
+        
+    }
+.footer{
+    height: 5.4rem;
+    .display-4{
+        font-size: 2rem;
+        
+    }
+}
+}
